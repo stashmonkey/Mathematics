@@ -1,3 +1,13 @@
+/* This program; if not not known is a direct 
+dericative of the  standard geometry 
+distance formulae. The distance formuale 
+is a paradigm used to calcualte the distance between 
+two points (in units) on the 
+cartesian plane or as some may (the graphing paper). 
+It can be manipulated in many geometric ways to 
+satisfy many problems like perimetre or area. */
+
+
 #include <stdio.h>
 #include <math.h>
 /*This program is a model of the distance formula in 
