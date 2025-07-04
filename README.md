@@ -2,7 +2,7 @@
 Common and uncommon mathematical equations (high school), automated by the power of c programming.
 This repository was made mainly in the sense of having a safe space to store the code I would have 
 written. I use a really volatile chromebook so github is the only place I can publish/store my code 
-(not the whole of it). So this repository was made because I wanted to automate some of the geometric 
+(not the whole of it). So this repository was made because I wanted to automate some of the mathematical (geometric)
 paradigms I study in school like the distance formulae, the pythagorean theorem etc... It may seem 
 petty but I use these paradigms an alwful lot so the best I thought I coud do was to use the craft of c programming 
 and write some of these programs so that I could have an extent of saving time in my studies. So whether you 
